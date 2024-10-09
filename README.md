@@ -1,22 +1,24 @@
 <div align="center">
-<h1>May the code be with you!</h1>
+<h1>All Hail DATA!</h1>
 
-👋 Hi there! I'm Barnana Ganguly, a data scientist with 5 years of professional experience. I'm dedicated to transforming data into actionable insights and spearheading innovation.
+👋 Hello Everyone! I am Atchi Reddy Vemula, with 3+ years of experience in Data Science, Product management, Business Analytics and Business Strategy. Proven expertise in leading cross-functional teams, developing data-centric products, and managing experiments to drive business outcomes using Machine Learning & Artificial Intelligence models. Adept at working with modern data technologies and building scalable systems to solve complex data problems. Seeking to leverage deep understanding of data infrastructure and transform to actionable insights.
 
-[![Linkedin Badge](https://img.shields.io/badge/-BarnanaGanguly-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/barnanaganguly/)](https://www.linkedin.com/in/barnanaganguly/)
+[![Linkedin Badge](https://img.shields.io/badge/-AtchiReddyVemula-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/atchi-reddy-v-24a108138/)](https://www.linkedin.com/in/atchi-reddy-v-24a108138/)
+
+
 
 </div>
 
 ## 🎓 Education
 
-- **MS in Business Analytics @ UT Austin**
-  - 🎓 Courses: Advanced Machine Learning, Analytics for Unstructured data, Advanced Optimization, Time Series, and more!
+- **MS in Business Analytics @ University Of New Hampshire**
+  - 🎓 Courses: Stastical Learning, Advanced Machine Learning, Unstructured data, Communications of Data, Advanced Optimization, Time Series, and more!
 
-- **MS in Economics @ Indira Gandhi Institute of Development Research**
-  - 🎓 Courses: Applied Econometrics, Financial Econometrics, Time Series, and more!
+- **MBA in Big Data Analytics @ Goa Institute of Management**
+  - 🎓 Courses: Marketing Analytics, Financial Analytics, Project Management, Microeconomics, Strategic Management and more!
 
-- **BSc in Economics @ Presidency University**
-  - 🎓 Courses: Econometrics, Mathematics, Statistics, Microeconomics, Macroeconomics, and more!
+- **BS in Mechanical Engineering @ K L University**
+  - 🎓 Courses: Automobile, Design Syatems, Mathematics, C-Programming and more!
 
 
 ## 🔭 Experience
